@@ -1,1 +1,5 @@
-{ "welcome": "Willkommen bei Enerthic 💪" }
+{
+  "title": "Warenkorb",
+  "description": "Überprüfe deine Artikel vor dem Kauf.",
+  "empty": "Dein Warenkorb ist leer."
+}
