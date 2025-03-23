@@ -1,0 +1,23 @@
+{
+  "de": {
+    "title": "Kontakt",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Absenden"
+  },
+  "es": {
+    "title": "Contacto",
+    "name": "Nombre",
+    "email": "Correo electr\u00f3nico",
+    "message": "Mensaje",
+    "send": "Enviar"
+  },
+  "en": {
+    "title": "Contact",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send"
+  }
+}
